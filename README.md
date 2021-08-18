@@ -1,4 +1,4 @@
 # just-tech-news
 
 ## Website Link (Heroku)
-https://git.heroku.com/still-island-29227.git
+https://still-island-29227.herokuapp.com/
